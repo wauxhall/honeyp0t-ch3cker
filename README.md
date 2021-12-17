@@ -11,7 +11,8 @@ This is refactored version of https://github.com/valamidev/web3-honeypot-checker
 ## How to use
 
 ```ts
-import {CheckSafety, BscChain} from 'honeyp0t-ch3cker';
+import {CheckSafety} from 'honeyp0t-ch3cker';
+import {BscChain} from "honeyp0t-ch3cker/dist/bsc/chain.js";
 
 const address = "0x0000000000000000000000000000000000000000";
 const res = await CheckSafety(address, BscChain);
