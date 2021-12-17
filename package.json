@@ -1,0 +1,25 @@
+{
+  "name": "honeyp0t-ch3cker",
+  "version": "1.0.0",
+  "description": "Honeypot checker",
+  "main": "dist/index.js",
+  "scripts": {
+    "prebuild": "rimraf dist",
+    "build": "tsc",
+    "test": "ts-node tests/test.ts"
+  },
+  "dependencies": {
+    "web3": "^1.5.2"
+  },
+  "author": "wauxhall",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.3",
+    "rimraf": "^3.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wauxhall/honeyp0t-ch3cker.git"
+  }
+}

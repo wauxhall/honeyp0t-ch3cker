@@ -1,0 +1,1 @@
+{"version":3,"file":"processorFactory.js","sourceRoot":"","sources":["../src/processorFactory.ts"],"names":[],"mappings":";;;AAEA,yCAA+C;AAExC,IAAM,aAAa,GAAG,UAAU,QAAc,EAAE,KAAY;IAC/D,QAAQ,KAAK,CAAC,EAAE,EAAE;QACd,KAAK,SAAS;YACV,OAAO,IAAI,0BAAgB,CAAC,QAAQ,CAAC,CAAC;QAC1C;YACI,MAAM,IAAI,KAAK,CAAC,oBAAoB,CAAC,CAAC;KAC7C;AACL,CAAC,CAAA;AAPY,QAAA,aAAa,iBAOzB"}
