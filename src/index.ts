@@ -1,6 +1,6 @@
 import Web3 from "web3";
 import {Chain, CheckerResult} from "./types";
-import {createDecoder} from "./processorFactory";
+import {createDecoder} from "./decodersFactory";
 
 const bnbIn = "0.5"
 

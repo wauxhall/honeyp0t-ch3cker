@@ -4,6 +4,8 @@ Checks if crypto-token is scam. Currently, supports only bsc chain
 
 This is refactored version of https://github.com/valamidev/web3-honeypot-checker
 
+I also didn't care much about architecture, cause I needed this functionality in a short time, but it's quite scalable, maybe will improve it in the future :)
+
 ## Install
 
 ```npm i honeyp0t-ch3cker```

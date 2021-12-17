@@ -25,6 +25,6 @@ export interface CheckerResult {
 
 export interface HoneypotData {
     isHoneypot: boolean,
-    buyTax: number,
-    sellTax: number,
+    buyTax: number,  // in percents
+    sellTax: number, // in percents
 }

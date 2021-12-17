@@ -1,6 +1,6 @@
 {
   "name": "honeyp0t-ch3cker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Honeypot checker",
   "main": "dist/index.js",
   "scripts": {
